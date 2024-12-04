@@ -8,7 +8,7 @@ function Contact() {
                 <p>We'd love to hear from you!</p>
             </header>
 
-            <div className="contact-info">
+            <div className="contact-info center-div">
                 <h2>Our Details</h2>
                 <p>insert phone number here</p>
                 <p>insert email address here</p>

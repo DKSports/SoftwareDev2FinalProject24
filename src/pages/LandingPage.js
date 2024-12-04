@@ -4,7 +4,7 @@ function LandingPage() {
     return (
         <div>
             <header style={{ backgroundColor: 'orange', padding: '10px' }}>
-                <h1>Welcome to Our Restaurant</h1>
+                <h1>"Just like my good ol' momma used to make it."</h1>
                 <p>The home of delicious food and Megan Bridges' Famous Pumpkin Pie!</p>
             </header>
 

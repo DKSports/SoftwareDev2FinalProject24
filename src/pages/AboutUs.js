@@ -6,7 +6,7 @@ function AboutUs() {
         <div>
             <header style={{ backgroundColor: '#ff6666', padding: '10px' }}>
                 <h1>About Us</h1>
-                <p>Learn more about who we are and why we love what we do!</p>
+                <p>put stuff about us here</p>
             </header>
 
             <div className="about-section">

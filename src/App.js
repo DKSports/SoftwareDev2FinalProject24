@@ -11,7 +11,7 @@ function App() {
         <Router>
             <div>
                 <header style={{ backgroundColor: '#f8b400', padding: '20px', textAlign: 'center' }}>
-                    <h1>Welcome to Our Restaurant</h1>
+                    <h1>Cultural Eats</h1>
                 </header>
                 <nav style={{ textAlign: 'center', margin: '20px' }}>
                     <Link to="/" style={{ margin: '10px' }}>Home</Link>
