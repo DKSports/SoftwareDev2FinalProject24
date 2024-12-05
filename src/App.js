@@ -11,7 +11,38 @@ function App() {
         <Router>
             <div>
                 <header style={{ backgroundColor: '#f8b400', padding: '20px', textAlign: 'center' }}>
-                    <h1>Cultural Eats</h1>
+                    <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '10px'}}>
+                <img
+                src="https://www.freeiconspng.com/uploads/fork-and-knfi-12.png"
+                alt="forkknifeicon"
+                style={{
+                maxWidth: '50px',
+                objectFit: 'contain',
+                }}
+                />
+                <h1 style={{margin: 0, fontSize: '24px', fontFamily: "'Times New Roman', serif" }}>Cultural Eats</h1>
+                <img
+                src="https://www.freeiconspng.com/uploads/fork-and-knfi-12.png"
+                alt="forkknifeicon"
+                style={{
+                    maxHeight: '50px',
+                    maxWidth: '50px',
+                    objectFit: 'contain',
+                }}
+                />
+                    </div>
+                    <header style={{ backgroundColor: '#f8b400', padding: '20px', textAlign: 'center' }}>
+                    <div style={{ textAlign: 'center' }}>
+                    <img
+                    src="https://www.pngmart.com/files/3/Horizontal-Line-Transparent-PNG.png"
+                    alt="flowerline"
+                    style={{
+                        width: '100%',
+                        height: 'auto',
+                    }}
+                    />
+                    </div>
+                    </header>
                 </header>
                 <nav style={{ textAlign: 'center', margin: '20px' }}>
                     <Link to="/" style={{ margin: '10px' }}>Home</Link>

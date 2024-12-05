@@ -9,7 +9,6 @@ header {
 .dish-gallery {
     margin: 20px;
     padding: 10px;
-    border: 2px dashed red;
     display:flex;
     flex-direction:column;
     align-items:center;
@@ -31,7 +30,7 @@ header {
     margin: 20px;
     padding: 10px;
     border: 2px solid darkgray;
-    background-color: #f0f0f0;
+    background-color: #b1283d;
     display:flex;
     flex-direction:column; 
     align-items:center;
@@ -62,8 +61,7 @@ header {
 .about-section {
     margin: 20px;
     padding: 10px;
-    border: 2px dashed green;
-    background-color: #f0f8ff;
+    background-color: #e97312;
 }
 
 .team-section {
@@ -99,7 +97,7 @@ header {
 .contact-info {
     margin: 20px;
     padding: 10px;
-    border: 2px dashed purple;
+
     background-color: #f9f9f9;
 }
 
@@ -139,8 +137,7 @@ button {
 
 .reservation-info {
     margin: 20px;
-    padding: 10px;
-    border: 2px dashed green;
+    padding: 10px; 
     background-color: #fffacd;
 }
 
